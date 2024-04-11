@@ -40,3 +40,4 @@ Download and extract https://www.kaggle.com/datasets/landlord/handwriting-recogn
 
 Download and extract https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database dataset into `iam-handwriting-word-database` folder.
 
+Reach other models' h5 files from here (couldn't upload to github because of maximum file size (100MB)): https://etuedutr-my.sharepoint.com/:f:/g/personal/seyyidhikmetcelik_etu_edu_tr/Eoq9hmts_iFDpngQxTk4AaIBcoAf55-354bAe2UmiEQL2w?e=iK10Up
