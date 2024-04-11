@@ -1,5 +1,7 @@
 # handwriting-text-recognition
 
+Grup-18
+
 Seyyid Hikmet Çelik
 
 221111033
@@ -25,7 +27,12 @@ conda install -c conda-forge pandoc
 pip install opencv-contrib-python --user
 ```
 
-then run jupyter-notebooks.
+then run jupyter-notebooks:
+
+```bash
+conda activate tfenv
+jupyter-notebook
+```
 
 Before that for datasets;
 
