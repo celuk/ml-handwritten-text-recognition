@@ -36,6 +36,8 @@ jupyter-notebook
 
 Before that for datasets;
 
+(Datasets just a small part exists in the repo because of couldn't upload all of them.)
+
 Download and extract https://www.kaggle.com/datasets/landlord/handwriting-recognition dataset into `handwriting-recognition` folder.
 
 Download and extract https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database dataset into `iam-handwriting-word-database` folder.
